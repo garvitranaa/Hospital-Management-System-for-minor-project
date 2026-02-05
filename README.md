@@ -9,6 +9,22 @@ Hospital Management System This is a Hospital Management System developed in C# 
 <img width="602" height="364" alt="Image" src="https://github.com/user-attachments/assets/3d2da699-5e45-4e7f-8109-dd6069095712" />
 
 
+‎ 
+‎ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
