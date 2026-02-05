@@ -3,7 +3,6 @@ Hospital Management System This is a Hospital Management System developed in C# 
 
 
 How to Run the Project in VS Code
-
 1. Install Required Software
 
 Install .NET SDK (latest version)
@@ -52,13 +51,12 @@ Run migrations if required
 
 7. Access the Application
 
-For Console App: Output will appear in the terminal
+Console App: Output appears in the terminal
 
-For Web App (ASP.NET): Open the provided localhost URL in your browser
+ASP.NET Web App: Open the localhost URL in a browser
 
-For Desktop App (WinForms/WPF): The application window will launch automatically
+WinForms / WPF App: Application window launches automatically
 
-If you want, I can:
 
 Rewrite this exactly in README.md format
 
