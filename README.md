@@ -5,6 +5,9 @@ Hospital Management System This is a Hospital Management System developed in C# 
 
 
 How to Run the Project in VS Code
+
+extract the above provided Zip fil
+
 1. Install Required Software
 
 Install .NET SDK (latest version)
