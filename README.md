@@ -1,10 +1,17 @@
 # Hospital-Management-System-for-minor-project
 Hospital Management System This is a Hospital Management System developed in C# that helps manage hospital operations efficiently.The system allows handling of patient records, doctor information, appointments, billing, and staff management.It is good for your college projects 
 
+
+
 <img width="518" height="323" alt="Image" src="https://github.com/user-attachments/assets/8bdc61bf-d8db-47b1-96c7-d831480473e7" />
 <img width="516" height="379" alt="Image" src="https://github.com/user-attachments/assets/676621b4-c632-4d2f-8667-afaa46b5d6e1" />
 <img width="602" height="362" alt="Image" src="https://github.com/user-attachments/assets/b073d9c9-8f38-4c41-9422-c6d1542c1d0f" />
 <img width="602" height="364" alt="Image" src="https://github.com/user-attachments/assets/3d2da699-5e45-4e7f-8109-dd6069095712" />
+
+
+
+
+
 
 
 
